@@ -1,1 +1,1 @@
-<H1>Spring Study</H1>
+<H1>Spring Study~</H1>
